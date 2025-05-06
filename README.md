@@ -3,3 +3,5 @@ Change detection in satellite imagery is critical for monitoring urban dynamics 
 
 file:///Users/maruthiwork/Downloads/XAI%20PROJECT/hirescam_sample_57%20(1).png
 
+    [<img src="file:///Users/maruthiwork/Downloads/XAI%20PROJECT/hirescam_sample_57%20(1).png" alt="An example image">](https://example.com/)
+
