@@ -1,7 +1,4 @@
 # What-Changed-and-Why-Bringing-Explainability-to-Satellite-Image-Change-Detection
 Change detection in satellite imagery is critical for monitoring urban dynamics and environmental changes. This work focuses on mechanistic interpretability of change detection models by integrating explainable AI (XAI) techniques to enhance model transparency and trustworthiness. We utilize the LEVIR-CD dataset, consisting of high-resolution bi-temporal satellite image pairs, which was  train on U-net Siamese neural network architecture for urban change detection. To interpret the model’s predictions, we apply the post hoc XAI method HiResCAM at the feature extraction layers of the network, enabling visualization of salient image regions influencing the change decisions. Our approach aims to answer key questions such as whether pre-change or post-change images have greater influence and to what extent the model attends to regions. This mechanistic insight facilitates a more reliable and interpretable change detection system. By introducing XAI to the domain of satellite image change detection, we provide a framework that can guide future research in improving state-of-the-art architectures and datasets, ultimately advancing the predictability and robustness of change detection algorithms.
 
-file:///Users/maruthiwork/Downloads/XAI%20PROJECT/hirescam_sample_57%20(1).png
-
-    [<img src="file:///Users/maruthiwork/Downloads/XAI%20PROJECT/hirescam_sample_57%20(1).png" alt="An example image">](https://example.com/)
-
+![hirescam_sample_57 (1)](https://github.com/user-attachments/assets/0b9f9606-eb69-4f7c-a6b1-608f0335cbdb)
